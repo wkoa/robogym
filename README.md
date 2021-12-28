@@ -22,7 +22,7 @@ Requires **Python 3.7.4 or greater**.
 2.  To checkout the code and install it, via `pip install`, run:
 
     ```bash
-    git clone git@github.com:openai/robogym.git
+    git clone git@github.com:wkoa/robogym.git
     cd robogym
     pip install -e .
     ```
@@ -30,7 +30,7 @@ Requires **Python 3.7.4 or greater**.
     Or you can install it directly via:
 
     ```bash
-    pip install git+https://github.com/openai/robogym.git
+    pip install git+https://github.com/wkoa/robogym.git
     ```
 
 ## Citation
